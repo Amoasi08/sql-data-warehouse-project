@@ -32,3 +32,10 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 ...
+
+## 🪪 License 
+This project is licensed under the (MIT License).
+
+## 🫠 About Me 
+Hi there! I'm **Ekow Amoasi Imbeah**. I am passionate about building new things. I like data analytics and data science. 
+I hope you learn alot from what I present. 
