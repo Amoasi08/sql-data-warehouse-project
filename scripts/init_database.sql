@@ -13,7 +13,7 @@ WARNING:
 	and ensure you have proper backups before running this script.
 */
 
---The 'GO' is like a separator, it executea the codes in sequence.
+--The 'GO' is like a separator, it executes the codes in sequence.
 USE master;
 GO
 
