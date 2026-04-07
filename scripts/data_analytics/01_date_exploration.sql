@@ -1,3 +1,5 @@
+--Data Exploration
+
 --Find the date of the first and last order
 --How many years of sales are available
 SELECT
